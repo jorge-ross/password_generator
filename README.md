@@ -32,7 +32,7 @@ cd password-generator
 Run the script directly from the command line:
 
 ```bash
-python generate_password.py
+python pwd_generator.py
 ```
 
 By default, the script generates a password with the following parameters:
