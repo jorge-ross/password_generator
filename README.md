@@ -23,7 +23,7 @@ The script generates a random password by:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/jorge-ross/password_generator.git
 cd password-generator
 ```
 
